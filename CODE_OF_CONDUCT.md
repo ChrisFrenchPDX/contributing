@@ -1,6 +1,8 @@
-# Esri Community Code of Conduct
+# Code of Conduct
 
 v1.0.0, February 2019
+
+> adapted from Esri's [Conference and Community Spaces Code of Conduct](https://www.esri.com/en-us/about/events/code-of-conduct)
 
 ## Purpose
 
@@ -8,31 +10,33 @@ At Esri, we believe geography can make the world a better place. In adopting thi
 
 Whether publicly or privately, and whether in-person or online, we expect all members of this community to interact both professionally and without harassment toward others, regardless of race, color, creed, gender, gender identity, religion, marital status, domestic partner status, genetic information, age, national origin or ancestry, military or veteran status, sexual orientation, or either physical or mental disability.
 
-See [Contributing to Esri Open Source Projects](https://github.com/Esri/contributing/blob/master/README.md) for more details on copyright, licensing, and using GitHub.
+## Expectations
 
-## Community Expectations
-
-Examples of behavior we encourage include:
+Behavior we encourage:
 
 - Share your ideas, but also listen to others
 - Be professional, kind, and considerate in technical discussions and disagreements
-- Be respectful of personal boundaries and preferences
-- Refrain from demeaning, harassing, aggressive, or intimidating communications and behavior
-- Be respectful of all project contributors and maintainers
-- Report inappropriate behavior to [events@esri.com](mailto:events@esri.com)
+- Respect personal boundaries and preferences
+- Respect all project contributors and maintainers
 
-Examples of inappropriate and unacceptable behavior include:
+Inappropriate/unacceptable behavior is anything hurtful that interferes with other people’s experience and participation in our community. This includes:
 
-- Harassment, aggression, and intimidation are hurtful and interfere with other people’s experience and participation in our community
+- Harassment, aggression, and intimidation
+- Slurs; derogatory jokes and statements;
+- Foul or obscene language;
+- Stalking;
+- Sharing graphic or derogatory pictures, drawings, or cartoons;
+- _Ad hominem_ or personal attacks and insults;
+- Unwanted or offensive letters or poems;
+- Offensive email, voicemail messages, or social media postings
+- Personal threats
 
-- Making slurs; derogatory jokes and statements; using foul or obscene language; stalking; sharing graphic or derogatory pictures, drawings, or cartoons; making _ad hominem_ or personal attacks and insults; sending unwanted or offensive letters or poems; leaving offensive email, voicemail messages, or social media postings
+## Reporting
 
-- Making personal threats
+Repository maintainers reserve the right to remove offensive content. To report inappropriate behavior, you can also contact [events@esri.com](mailto:events@esri.com).
 
-## Consequences of inappropriate behavior
+## Consequences
 
-Inappropriate behavior will not be tolerated. If asked to stop behaving inappropriately, you should comply immediately.  
-
-Violations of this Community Code of Conduct may result in either, or both:
+Violations of this Code of Conduct may result in:
   * Disqualification from Esri Events, including conferences ([see the Esri Conference and Community Spaces Code of Conduct](https://www.esri.com/en-us/about/events/code-of-conduct))
-  * [Being blocked from Esri GitHub repos](https://help.github.com/articles/blocking-a-user-from-your-organization/)
+  * [Being blocked from Esri's GitHub Organization](https://help.github.com/articles/blocking-a-user-from-your-organization/)
